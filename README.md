@@ -4,5 +4,5 @@
 </p>
 <h2>Projects</h2>
 <p>
-  <h2>Sorting</h2>: Sotrting Project is a Project contains All Sorting Algorithms With a Description For each Algorithm. 
+  Sorting: Sotrting Project is a Project contains All Sorting Algorithms With a Description For each Algorithm. 
 </p>
