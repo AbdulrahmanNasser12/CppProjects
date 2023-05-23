@@ -1,0 +1,3 @@
+﻿  sorting.cpp
+C:\Users\abdon\Desktop\sorting\sorting\sorting.cpp(28,7): warning C4101: 'temp': unreferenced local variable
+  sorting.vcxproj -> C:\Users\abdon\Desktop\sorting\Debug\sorting.exe
